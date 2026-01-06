@@ -38,10 +38,11 @@ or you can download from this website
 
 ## How to Run the Code
 1. Download or clone this repository.
-2. If the dataset is provided as a ZIP file, **extract (unzip) it** into the project directory.
-3. Open the Jupyter Notebook file `traffic_5.ipynb` in **Google Colab** or **Jupyter Notebook**.
-4. Upload or ensure the extracted dataset CSV files are in the working directory.
-5. Run all cells sequentially from top to bottom.
+2. If the dataset is provided as a ZIP file.
+3. Open the Jupyter Notebook file `traffic_5.ipynb` in **Google Colab**.
+4. Upload zip file.
+5. And Change **zip file path** by your uploaded **dataset** zip file in drive your traffic_5.ipynb file
+6. Run all cells sequentially from top to bottom.
 
 The notebook will perform:
 - Data cleaning and preprocessing
@@ -53,8 +54,6 @@ The notebook will perform:
 - `traffic_5.ipynb`  
   Main notebook containing data preprocessing, model training, evaluation, and result visualisation.
 
-- Dataset files (`.csv`)  
-  Packet-based and session-based encrypted traffic feature datasets.
 
 - Dataset ZIP file (`.zip`)  
   Compressed version of the dataset. Must be extracted before use.
