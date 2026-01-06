@@ -26,7 +26,7 @@ The dataset includes:
 
 or you can download from this website 
 [Encrypted Traffic Feature Dataset (Mendeley)](https://[(https://data.mendeley.com/datasets/xw7r4tt54g/1)]
-
+"Encrypted Traffic Feature Dataset for Machine Learning and Deep Learning based Encrypted Traffic Analysis.zip" and upload to your drive.
 
 ## Tools and Technologies
 - Python
@@ -38,11 +38,11 @@ or you can download from this website
 
 ## How to Run the Code
 1. Download or clone this repository.
-2. If the dataset is provided as a ZIP file.
+2. The dataset is provided as a ZIP file.
 3. Open the Jupyter Notebook file `traffic_5.ipynb` in **Google Colab**.
-4. Upload zip file.
-5. And Change **zip file path** by your uploaded **dataset** zip file in drive your traffic_5.ipynb file
-6. Run all cells sequentially from top to bottom.
+4. Upload zip file and traffic_5.ipynb.
+5. And Change **zip file path** by your uploaded **"Encrypted Traffic Feature Dataset for Machine Learning and Deep Learning based Encrypted Traffic Analysis.zip"** zip file in drive to your traffic_5.ipynb fil in Colab.
+7. Run all cells sequentially from top to bottom.
 
 The notebook will perform:
 - Data cleaning and preprocessing
@@ -56,7 +56,7 @@ The notebook will perform:
 
 
 - Dataset ZIP file (`.zip`)  
-  Compressed version of the dataset. Must be extracted before use.
+  Compressed version of the dataset.
 
 ## Output
 The project generates:
