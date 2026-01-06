@@ -71,5 +71,4 @@ These outputs are used to analyse the effectiveness of different models in detec
 
 ## Author
 Muhammad Ibrahim Khan  
-MSc Data Science  
-University of Hertfordshire
+
