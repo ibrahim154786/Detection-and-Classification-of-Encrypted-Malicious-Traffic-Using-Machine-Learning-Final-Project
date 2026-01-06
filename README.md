@@ -23,7 +23,6 @@ The dataset includes:
 - Binary labels (0 = legitimate, 1 = malicious)
 
 📦 **Note:** The dataset is also provided in this repository in **ZIP format** for convenience.  
-Please extract (unzip) the dataset files before running the notebook.
 
 or you can download from this website 
 [Encrypted Traffic Feature Dataset (Mendeley)](https://[(https://data.mendeley.com/datasets/xw7r4tt54g/1)]
