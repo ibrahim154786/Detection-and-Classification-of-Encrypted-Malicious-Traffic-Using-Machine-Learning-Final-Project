@@ -25,7 +25,7 @@ The dataset includes:
 📦 **Note:** The dataset is also provided in this repository in **ZIP format** for convenience.  
 
 or you can download from this website 
-[Encrypted Traffic Feature Dataset (Mendeley)](https://[(https://data.mendeley.com/datasets/xw7r4tt54g/1)]
+[Encrypted Traffic Feature Dataset (Mendeley)][(https://prod-dcd-datasets-cache-zipfiles.s3.eu-west-1.amazonaws.com/xw7r4tt54g-1.zip)]
 "Encrypted Traffic Feature Dataset for Machine Learning and Deep Learning based Encrypted Traffic Analysis.zip" and upload to your drive.
 
 ## Tools and Technologies
